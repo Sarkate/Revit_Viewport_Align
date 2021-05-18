@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viewport_Align", "Viewport_Align\Viewport_Align.csproj", "{125AD8EA-FDF5-43AA-9B86-7B46E9049F52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{125AD8EA-FDF5-43AA-9B86-7B46E9049F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{125AD8EA-FDF5-43AA-9B86-7B46E9049F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{125AD8EA-FDF5-43AA-9B86-7B46E9049F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{125AD8EA-FDF5-43AA-9B86-7B46E9049F52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD3B6106-F765-4A3A-AA2D-1C4C21DD5E9F}
+	EndGlobalSection
+EndGlobal

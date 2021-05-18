@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Viewport Align</Name>
+    <Assembly>C:\C:\Revit Add-in\Viewport_Align.dll</Assembly>
+    <AddInId>A6B06127-46DB-4FDE-BD2B-29F21FCAE9B6</AddInId>
+    <FullClassName>Viewport_Align.MainPanel</FullClassName>
+    <VendorId>ADSK</VendorId>
+  </AddIn>
+</RevitAddIns>
+
+
